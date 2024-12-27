@@ -1,4 +1,4 @@
-package article_read.src.main.java.kuke.board.article;
+package kuke.board.article_read;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -6,6 +6,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class ArticleReadApplication {
 	public static void main(String[] args) {
-		SpringApplication.run(ArticleApplication.class, args);
+		SpringApplication.run(ArticleReadApplication.class, args);
 	}
 }

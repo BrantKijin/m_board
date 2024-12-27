@@ -1,4 +1,4 @@
-package like.src.main.java.kuke.board.like;
+package kuke.board.like;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
